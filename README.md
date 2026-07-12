@@ -1,7 +1,7 @@
 # 🎮 Ritika Kalia's Dashboard
 
 [![GitHub followers](https://img.shields.io/github/followers/Ritikakalia1?style=social)](https://github.com/Ritikakalia1)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ritika-kalia)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ritika-kalia-809984330/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white)](https://ritikakalia.dev)
 
 ---
