@@ -78,46 +78,17 @@ class RitikaKalia:
 
 ---
 
-## 🎯 XP Progress Bar
-
-<div align="center">
-
-### GitHub XP Level
-
-[████████████████████████████████████] **92%** *Level 92*
-
-### Python Mastery
-
-[████████████████████████████████████] **95%** *Legendary*
-
-### PyTorch Mastery
-
-[████████████████████████████████] **88%** *Expert*
-
-### Django/Flask Mastery
-
-[██████████████████████████████] **85%** *Expert*
-
-### Research Experience
-
-[████████████████████████████████████] **90%** *Doctorate*
-
-</div>
-
----
-
 ## 🚀 Featured Quests (Projects)
 
 <div align="center">
 
-| Quest | Difficulty | Status | XP |
+| Projects | 
 |-------|------------|--------|----|
-| 🧠 **Multilingual Legal QA** | ⭐⭐⭐⭐⭐ | ✅ Complete | +500 XP |
-| 🎥 **Video Violence Detection** | ⭐⭐⭐⭐⭐ | ✅ Complete | +500 XP |
-| 🛒 **E-Commerce Platform** | ⭐⭐⭐ | ✅ Complete | +300 XP |
-| 🧬 **Brain Tumor Detection** | ⭐⭐⭐⭐ | 🔄 In Progress | +200 XP |
-| 🏥 **MediNova Medical** | ⭐⭐⭐ | 🔄 In Progress | +200 XP |
-| 🕶️ **XR Privacy Research** | ⭐⭐⭐⭐⭐ | ✅ Complete | +500 XP |
+| 🧠 **Multilingual Legal QA** |
+| 🎥 **Video Violence Detection** |
+| 🛒 **E-Commerce Platform** | 
+| 🧬 **Brain Tumor Detection** |
+| 🕶️ **XR Privacy Research** | 
 
 </div>
 
