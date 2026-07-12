@@ -21,21 +21,6 @@ class RitikaKalia:
         return "🚀 Building intelligent systems & leading tech communities"
 ```
 
----
-
-## 🏆 Achievement Unlocked!
-
-<div align="center">
-
-| Badge | Achievement | Status |
-|-------|-------------|--------|
-| 🥇 | **IEEE ICIR 2026 Presenter** | ✅ Unlocked |
-| 🏆 | **ACM-W Chairperson** | ✅ Unlocked |
-| 📝 | **Published Author** | ✅ Unlocked |
-| 🎯 | **97.75% Accuracy** | ✅ Unlocked |
-| ⭐ | **3rd Business Blueprint** | ✅ Unlocked |
-
-</div>
 
 ---
 
