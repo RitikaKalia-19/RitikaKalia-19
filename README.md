@@ -9,8 +9,6 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=RitikaKalia-19&label=PROFILE+VIEWS&color=A78BFA&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/IEEE%20ICIR%202026-000000?style=for-the-badge" alt="IEEE ICIR 2026"/>
-<img src="https://img.shields.io/badge/ACTIVE-FFA500?style=for-the-badge" alt="Active"/>
 
 </div>
 
