@@ -17,30 +17,31 @@
 
 ---
 
+```
 ~ ❯ whoami
-██████╗ ██╗████████╗██╗██╗ ██╗ █████╗ ██╗ ██╗ █████╗ ██╗ ██╗ █████╗
-██╔══██╗██║╚══██╔══╝██║██║ ██╔╝██╔══██╗ ██║ ██╔╝██╔══██╗██║ ██║██╔══██╗
-██████╔╝██║ ██║ ██║█████╔╝ ███████║ █████╔╝ ███████║██║ ██║███████║
-██╔══██╗██║ ██║ ██║██╔═██╗ ██╔══██║ ██╔═██╗ ██╔══██║██║ ██║██╔══██║
-██║ ██║██║ ██║ ██║██║ ██╗██║ ██║ ██║ ██╗██║ ██║███████╗██║██║ ██║
-╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝ ╚═╝╚═╝ ╚═╝╚══════╝╚═╝╚═╝ ╚═╝
+██████╗ ██╗████████╗██╗██╗  ██╗ █████╗     ██╗  ██╗ █████╗ ██╗     ██╗ █████╗ 
+██╔══██╗██║╚══██╔══╝██║██║ ██╔╝██╔══██╗    ██║ ██╔╝██╔══██╗██║     ██║██╔══██╗
+██████╔╝██║   ██║   ██║█████╔╝ ███████║    █████╔╝ ███████║██║     ██║███████║
+██╔══██╗██║   ██║   ██║██╔═██╗ ██╔══██║    ██╔═██╗ ██╔══██║██║     ██║██╔══██║
+██║  ██║██║   ██║   ██║██║  ██╗██║  ██║    ██║  ██╗██║  ██║███████╗██║██║  ██║
+╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
 
-Role : CS Undergrad · AI/ML & Full-Stack Dev
-Edu : B.E. CSE, CCET · CGPA 9.45 (6th SEM)
-Focus : AI/ML · LLMs · RAG · Full-Stack Dev
+Role   : CS Undergrad · AI/ML & Full-Stack Dev
+Edu    : B.E. CSE, CCET · CGPA 9.45 (6th SEM)
+Focus  : AI/ML · LLMs · RAG · Full-Stack Dev
 
 ~/highlights
-Award : IEEE ICIR 2026 e-Poster, Univ. of Pisa
-Pub : Memory in Conversational AI Agents
-Award : 3rd place, Business Blueprint 2025 (IIC)
+Award  : IEEE ICIR 2026 e-Poster, Univ. of Pisa
+Pub    : Memory in Conversational AI Agents
+Award  : 3rd place, Business Blueprint 2025 (IIC)
 
 ~/reach
 LinkedIn: linkedin.com/in/ritika-kalia-809984330
-Github : github.com/Ritikakalia1
-Mail : kaliaritika489@gmail.com
+Github  : github.com/Ritikakalia1
+Mail    : kaliaritika489@gmail.com
 
 ~ ❯ open to AI/ML Engineer / Full-Stack Developer roles
-
+```
 
 ---
 
@@ -62,6 +63,7 @@ Mail : kaliaritika489@gmail.com
 `Python` `C` `SQL` `JavaScript` `HTML/CSS` `Django` `Flask` `REST APIs` `PyTorch` `Hugging Face Transformers`
 
 </div>
+
 
 ### 🏆 Honours & Awards
 
