@@ -3,17 +3,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=180&section=header&text=Ritika%20Kalia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%C2%B7%20AI%2FML%20and%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Ritika Kalia"/>
 
 <a href="https://github.com/RitikaKalia-19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Fine-tuning+LLMs+with+QLoRA;Building+RAG+Systems;Chairperson%2C+ACM-W+CCET" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Fine-tuning+LLMs+with+QLoRA;Building+RAG+Systems;Experimenting+with+PyTorch+NNs+and+Deep+Learning;Learning+AI%2FML+Fundamentals;Chairperson%2C+ACM-W+CCET" alt="Typing SVG"/>
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=RitikaKalia-19&label=PROFILE+VIEWS&color=A78BFA&style=for-the-badge" alt="Profile Views"/>
-
 <img src="https://img.shields.io/badge/IEEE%20ICIR%202026-000000?style=for-the-badge" alt="IEEE ICIR 2026"/>
-
 <img src="https://img.shields.io/badge/CHAIRPERSON%20ACM--W-FF6B6B?style=for-the-badge" alt="ACM-W Chairperson"/>
-
 <img src="https://img.shields.io/badge/ACTIVE-FFA500?style=for-the-badge" alt="Active"/>
 
 </div>
