@@ -59,7 +59,7 @@
 - **3rd Position, Business Blueprint 2025 (IIC), CCET** — Pitched "Women Safety Analytics System," a multimodal AI/ML surveillance solution
 
 ### 🧭 Positions of Responsibility
-
+- **Chairperson** | ACM-W CCET Student Chapter (July 2025 – July 2026)
 - **Technical Team Member** | CCET APRATIM 2025 (College Tech Fest)
 - **Design Contributor** | CCET College Website Team — designed official departmental web pages (Figma)
 
