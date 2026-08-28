@@ -1,5 +1,9 @@
 <div align="center">
 
+<!-- Top Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=100&section=header" alt="Top Wave"/>
+
+<!-- Shooting Star Header -->
 <img width="100%" src="assests/shooting-star-header.png" alt="Ritika Kalia"/>
 
 <a href="https://github.com/RitikaKalia-19">
@@ -19,6 +23,8 @@
 </a>
 
 </div>
+
+---
 
 
 
