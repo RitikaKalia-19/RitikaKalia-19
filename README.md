@@ -117,24 +117,6 @@ Mail    : kaliaritika489@gmail.com
 - **Technical Team Member** | CCET APRATIM 2025 (College Tech Fest)
 - **Design Contributor** | CCET College Website Team — designed official departmental web pages (Figma)
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=RitikaKalia-19&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=RitikaKalia-19&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=RitikaKalia-19&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
 ### 🌐 Connect with Me
 
 <div align="center">
