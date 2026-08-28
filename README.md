@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=180&section=header&text=Ritika%20Kalia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%C2%B7%20AI%2FML%20and%20Full-Stack%20Developer&descAlignY=58&descSize=18"/>
 
 <a href="https://github.com/Ritikakalia-19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Fine-tuning+LLMs+with+QLoRA;Building+RAG+%2B+Hallucination+Detection;Chairperson%2C+ACM-W+CCET" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Fine-tuning+LLMs+with+QLoRA;Building+RAG Systems ;Chairperson%2C+ACM-W+CCET" alt="Typing SVG" />
 </a>
 
 <br><br>
