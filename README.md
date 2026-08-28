@@ -52,7 +52,6 @@ Edu    : B.E. CSE, CCET · CGPA 9.45 (6th SEM)
 
 - 🎓 B.E. in Computer Science & Engineering @ Chandigarh College of Engineering & Technology — CGPA 9.45 (till 6th SEM)
 - 🐍 Interested in Python, Flask, Django, Machine Learning, Deep Learning, and Neural Networks using PyTorch
-- 📫 How to reach me: [kaliaritika489@gmail.com](mailto:kaliaritika489@gmail.com)
 
 ### 🚀 Tech Stack
 
