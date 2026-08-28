@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/shooting-star-header.png" alt="Ritika Kalia"/>
+<img width="100%" src="assests/shooting-star-header.png" alt="Ritika Kalia"/>
 
 </div>
 
