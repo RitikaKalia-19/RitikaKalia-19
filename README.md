@@ -121,15 +121,15 @@ Mail    : kaliaritika489@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RitikaKalia-19&show_icons=true&theme=tokyonight" height="165">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=RitikaKalia-19&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=RitikaKalia-19&theme=tokyonight" height="165">
+<img src="https://streak-stats.demolab.com?user=RitikaKalia-19&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RitikaKalia-19&theme=tokyo-night" width="90%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RitikaKalia-19&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
 
