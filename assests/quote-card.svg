@@ -1,1 +1,32 @@
+<svg width="700" height="200" viewBox="0 0 700 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6C63FF"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12121a"/>
+      <stop offset="100%" stop-color="#1c1c2b"/>
+    </linearGradient>
+  </defs>
 
+  <rect width="700" height="200" rx="16" fill="url(#cardGrad)"/>
+  <rect x="1.5" y="1.5" width="697" height="197" rx="14.5" fill="none" stroke="url(#bgGrad)" stroke-width="2"/>
+
+  <rect x="0" y="0" width="8" height="200" rx="4" fill="url(#bgGrad)"/>
+
+  <text x="50" y="70" font-family="Georgia, serif" font-size="64" fill="#A78BFA" opacity="0.5">&#8220;</text>
+
+  <text x="70" y="95" font-family="'Fira Code', monospace" font-size="21" fill="#EDEDF7" font-weight="600">
+    In God we trust; all others bring data.
+  </text>
+
+  <line x1="70" y1="130" x2="140" y2="130" stroke="url(#bgGrad)" stroke-width="2"/>
+  <text x="150" y="135" font-family="'Fira Code', monospace" font-size="15" fill="#A78BFA">
+    W. Edwards Deming
+  </text>
+
+  <text x="640" y="170" font-family="'Fira Code', monospace" font-size="12" fill="#6C63FF" opacity="0.6" text-anchor="end">
+    ritikakalia1
+  </text>
+</svg>
