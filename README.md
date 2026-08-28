@@ -95,12 +95,12 @@ Mail    : kaliaritika489@gmail.com
 ### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,sql,django,flask,pytorch,git,figma&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,c,sql,js,html,css,django,flask,pytorch,git,figma&theme=dark" alt="Tech Stack"/>
 </div>
 
 <div align="center">
 
-`Python` `C` `SQL` `JavaScript` `HTML/CSS` `Django` `Flask` `REST APIs` `PyTorch` `Hugging Face Transformers`
+`Python` `C` `SQL` `JavaScript` `HTML` `CSS` `Django` `Flask` `PyTorch` `Git` `Figma`
 
 </div>
 
