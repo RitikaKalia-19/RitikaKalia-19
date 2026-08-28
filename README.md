@@ -8,11 +8,19 @@
 
 <br><br>
 
+<a href="https://www.linkedin.com/in/ritika-kalia-809984330/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 <img src="https://komarev.com/ghpvc/?username=RitikaKalia-19&label=PROFILE+VIEWS&color=A78BFA&style=for-the-badge" alt="Profile Views"/>
+
+<a href="mailto:kaliaritika489@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 </div>
 
----
+
 
 ---
 
@@ -65,19 +73,6 @@
 - **Technical Team Member** | CCET APRATIM 2025 (College Tech Fest)
 - **Design Contributor** | CCET College Website Team — designed official departmental web pages (Figma)
 
-### 🌐 Connect with Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ritika-kalia-809984330/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kaliaritika489@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 <br>
 
