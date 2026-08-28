@@ -121,8 +121,7 @@ __________.______________.___ ____  __.  _____     ____  __.  _____  .____    ._
 <div align="center">
 
 ### 💭
-> ### "In God we trust; all others bring data."
-> — W. Edwards Deming
+<img src="assets/quote-card.svg" alt="In God we trust; all others bring data. — W. Edwards Deming" width="600"/> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=100&section=footer"/>
 
 </div>
 
