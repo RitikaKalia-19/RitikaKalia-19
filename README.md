@@ -1,12 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assests/shooting-star-header.png" alt="Ritika Kalia"/>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=180&section=header&text=Ritika%20Kalia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%C2%B7%20AI%2FML%20and%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Ritika Kalia"/>
+<img width="100%" src="assets/shooting-star-header.png" alt="Ritika Kalia"/>
 
 <a href="https://github.com/RitikaKalia-19">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Fine-tuning+LLMs+with+QLoRA;Building+RAG+Systems;Experimenting+with+PyTorch+NNs+and+Deep+Learning;Learning+AI%2FML+Fundamentals" alt="Typing SVG"/>
@@ -17,6 +11,8 @@
 <img src="https://komarev.com/ghpvc/?username=RitikaKalia-19&label=PROFILE+VIEWS&color=A78BFA&style=for-the-badge" alt="Profile Views"/>
 
 </div>
+
+---
 
 ---
 
