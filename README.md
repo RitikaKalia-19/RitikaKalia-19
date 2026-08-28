@@ -1,5 +1,11 @@
 <div align="center">
 
+<img width="100%" src="assets/shooting-star-header.png" alt="Ritika Kalia"/>
+
+</div>
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=180&section=header&text=Ritika%20Kalia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%C2%B7%20AI%2FML%20and%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Ritika Kalia"/>
 
 <a href="https://github.com/RitikaKalia-19">
