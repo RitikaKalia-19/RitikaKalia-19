@@ -27,20 +27,6 @@
 ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
 </pre>
 
-<table>
-<tr>
-
-<pre>
-Role   : CS Undergrad · AI/ML & Full-Stack Dev
-Edu    : B.E. CSE, CCET · CGPA 9.45 (6th SEM)
-
-~ ❯ open to AI/ML Engineer / Full-Stack Developer roles
-</pre>
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
@@ -50,6 +36,7 @@ Edu    : B.E. CSE, CCET · CGPA 9.45 (6th SEM)
 
 - 🎓 B.E. in Computer Science & Engineering @ Chandigarh College of Engineering & Technology — CGPA 9.45 (till 6th SEM)
 - 🐍 Interested in Python, Flask, Django, Machine Learning, Deep Learning, and Neural Networks using PyTorch
+- ~ ❯ open to AI/ML Engineer / Full-Stack Developer roles
 
 ### 🚀 Tech Stack
 
