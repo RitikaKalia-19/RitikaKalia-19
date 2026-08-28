@@ -36,7 +36,7 @@
 
 - 🎓 B.E. in Computer Science & Engineering @ Chandigarh College of Engineering & Technology — CGPA 9.45 (till 6th SEM)
 - 🐍 Interested in Python, Flask, Django, Machine Learning, Deep Learning, and Neural Networks using PyTorch
-- ~ ❯ open to AI/ML Engineer / Full-Stack Developer roles
+- 🔭 Open to AI/ML Engineer / Full-Stack Developer roles
 
 ### 🚀 Tech Stack
 
