@@ -36,7 +36,6 @@ Pub    : Memory in Conversational AI Agents
 Award  : 3rd place, Business Blueprint 2025 (IIC)
 
 ~/reach
-Phone   : +91-8284977647
 LinkedIn: linkedin.com/in/ritika-kalia-809984330
 Github  : github.com/Ritikakalia1
 Mail    : kaliaritika489@gmail.com
