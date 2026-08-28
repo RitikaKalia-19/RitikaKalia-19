@@ -80,8 +80,8 @@ Mail    : kaliaritika489@gmail.com
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritikakalia1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikakalia1&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritikakalia-19&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikakalia-19&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
 <div align="center">
