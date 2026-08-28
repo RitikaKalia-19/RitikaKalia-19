@@ -125,7 +125,7 @@ Mail    : kaliaritika489@gmail.com
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikakalia-19&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RitikaKalia-19&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
 </div>
 
 ### 🌐 Connect with Me
