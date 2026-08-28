@@ -110,7 +110,7 @@ Mail    : kaliaritika489@gmail.com
 
 ### 💭
 
-<img src="assets/quote-card.svg" alt="In God we trust; all others bring data. — W. Edwards Deming" width="600"/>
+<img src="assests/quote-card.svg" alt="In God we trust; all others bring data. — W. Edwards Deming" width="600"/>
 
 </div>
 
