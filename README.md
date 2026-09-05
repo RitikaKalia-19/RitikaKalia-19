@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Top Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=80&section=header" alt="Top Wave"/>
 
 <div align="center">
 
@@ -13,12 +11,6 @@
 
 </div>
 
-<!-- Bottom Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=80&section=footer" alt="Bottom Wave"/>
-
-<a href="https://github.com/RitikaKalia-19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Fine-tuning+LLMs+with+QLoRA;Building+RAG+Systems;Experimenting+with+PyTorch+NNs+and+Deep+Learning;Learning+AI%2FML+Fundamentals" alt="Typing SVG"/>
-</a>
 
 <br><br>
 
