@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=80&section=header" alt="Top Wave"/>
 
 <!-- Shooting Star Header -->
-<img width="100%" src="assests/animated-header.svg" alt="Ritika Kalia"/>
+<img width="100%" src="assests/animated-head.svg" alt="Ritika Kalia"/>
 
 <!-- Bottom Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=80&section=footer" alt="Bottom Wave"/>
