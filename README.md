@@ -91,9 +91,7 @@
 </div>
 
 
-### 📚 Research & Publication
-
-<div align="center">
+### 📚 Research & Publications
 
 **Real-Time Privacy Guardianship in XR Metaverses via AI-Driven Behavioral Analytics**
 
@@ -107,7 +105,15 @@
   <img src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
 </a>
 
-</div>
+<br><br>
+
+**Memory in Conversational AI Agents: The Backbone of Long-Term Intelligence**
+
+*Published in Insights2Techinfo.*
+
+<a href="https://insights2techinfo.com/memory-in-conversational-ai-agents-the-backbone-of-long-term-intelligence/">
+  <img src="https://img.shields.io/badge/Read%20Publication-A78BFA?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read Publication"/>
+</a>
 
 ### 🧭 Positions of Responsibility
 
