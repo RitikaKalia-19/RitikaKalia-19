@@ -111,9 +111,13 @@
 
 ### 🧭 Positions of Responsibility
 
-* **Chairperson** | ACM-W CCET Student Chapter *(July 2025 – July 2026)*
+* **Chairperson** | ACM-W CCET Student Chapter *(2025–2026)* <a href="https://ccet.acm.org/teams"> <img src="https://img.shields.io/badge/ACM--W%20Team%20Page-A78BFA?style=flat-square&logo=acm&logoColor=white" alt="ACM-W Team Page"/> </a>
+
 * **Technical Team Member** | CCET APRATIM 2025 *(College Tech Fest)*
-* **Design Contributor** | CCET College Website Team *(Figma)*
+
+* **Design Contributor** | CCET College Website Team *(2025)*
+  Designed official departmental web pages <a href="https://www.figma.com/design/EJHcxXhap6iQsPMuCwj77C/Home_civilDept?t=cfmDTdZftfIluvb2-1"> <img src="https://img.shields.io/badge/View%20Design%20on%20Figma-A78BFA?style=flat-square&logo=figma&logoColor=white" alt="Figma Design"/> </a>
+
 
 <br>
 
