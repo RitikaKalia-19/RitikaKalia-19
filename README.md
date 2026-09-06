@@ -47,7 +47,7 @@
 * 🐍 Interested in **Python, Flask, Django, Machine Learning, Deep Learning, and Neural Networks using PyTorch**
 * 🔭 Open to **AI/ML Engineer / Full-Stack Developer roles**
 
-### 🚀 Tech Stack
+
 ### 🚀 Tech Stack
 
 **Languages**
