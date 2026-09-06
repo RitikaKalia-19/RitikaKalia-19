@@ -43,7 +43,7 @@
 
 ### 🔭 About Me
 
-* 🎓 B.E. in Computer Science & Engineering @ Chandigarh College of Engineering & Technology — **CGPA 9.45 (till 6th SEM)**
+* 🎓 B.E. in Computer Science & Engineering @ Chandigarh College of Engineering & Technology 
 * 🐍 Interested in **Python, Flask, Django, Machine Learning, Deep Learning, and Neural Networks using PyTorch**
 * 🔭 Open to **AI/ML Engineer / Full-Stack Developer roles**
 
