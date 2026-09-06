@@ -1,16 +1,14 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=80&section=header" alt="Top Wave"/>
 
-<div align="center">
+<img width="100%" src="assests/animated-header.svg" alt="Ritika Kalia"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=80&section=header" alt="Top Wave" style="display:block; margin:0; vertical-align:top;"/><img width="100%" src="assests/animated-header.svg" alt="Ritika Kalia" style="display:block; margin:0; vertical-align:top;"/><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=80&section=footer" alt="Bottom Wave" style="display:block; margin:0; vertical-align:top;"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=80&section=footer" alt="Bottom Wave"/>
 
 <a href="https://github.com/RitikaKalia-19">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Fine-tuning+LLMs+with+QLoRA;Building+RAG+Systems;Experimenting+with+PyTorch+NNs+and+Deep+Learning;Learning+AI%2FML+Fundamentals" alt="Typing SVG"/>
 </a>
-
-</div>
-
 
 <br><br>
 
@@ -28,12 +26,6 @@
 
 ---
 
----
-
-
-
----
-
 <div align="center">
 
 <pre>
@@ -47,16 +39,13 @@
 ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
 </pre>
 
-
 </div>
-
----
 
 ### 🔭 About Me
 
-- 🎓 B.E. in Computer Science & Engineering @ Chandigarh College of Engineering & Technology — CGPA 9.45 (till 6th SEM)
-- 🐍 Interested in Python, Flask, Django, Machine Learning, Deep Learning, and Neural Networks using PyTorch
-- 🔭 Open to AI/ML Engineer / Full-Stack Developer roles
+* 🎓 B.E. in Computer Science & Engineering @ Chandigarh College of Engineering & Technology — **CGPA 9.45 (till 6th SEM)**
+* 🐍 Interested in **Python, Flask, Django, Machine Learning, Deep Learning, and Neural Networks using PyTorch**
+* 🔭 Open to **AI/ML Engineer / Full-Stack Developer roles**
 
 ### 🚀 Tech Stack
 
@@ -64,38 +53,44 @@
 
 <img src="https://skillicons.dev/icons?i=python,c,sql,js,html,css,django,flask,pytorch,git,figma&theme=dark" alt="Tech Stack"/>
 
-</div>
-
-<div align="center">
+<br><br>
 
 `Python` `C` `SQL` `JavaScript` `HTML` `CSS` `Django` `Flask` `PyTorch` `Git` `Figma`
 
 </div>
 
-## 📚 Research & Publication
+### 📚 Research & Publication
+
+<div align="center">
 
 **Real-Time Privacy Guardianship in XR Metaverses via AI-Driven Behavioral Analytics**
 
-Published and presented as an **e-Poster at IEEE ICIR 2026**, University of Pisa, Italy.
+*Published and presented as an **e-Poster at IEEE ICIR 2026**, University of Pisa, Italy.*
 
-- **IEEE Xplore:** https://ieeexplore.ieee.org/document/11628368
-- **GitHub:** [BehaviorShield Repository](https://github.com/RitikaKalia-19/Real_Time_Privacy_Guardianship_in_XR_Metaverses_via_AI_Driven_Behavioral_Analytics-)
+<a href="https://ieeexplore.ieee.org/document/11628368">
+  <img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
+</a>
 
+<a href="https://github.com/RitikaKalia-19/Real_Time_Privacy_Guardianship_in_XR_Metaverses_via_AI_Driven_Behavioral_Analytics-">
+  <img src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+</a>
+
+</div>
 
 ### 🧭 Positions of Responsibility
-- **Chairperson** | ACM-W CCET Student Chapter (July 2025 – July 2026)
-- **Technical Team Member** | CCET APRATIM 2025 (College Tech Fest)
-- **Design Contributor** | CCET College Website Team — designed official departmental web pages (Figma)
 
+* **Chairperson** | ACM-W CCET Student Chapter *(July 2025 – July 2026)*
+* **Technical Team Member** | CCET APRATIM 2025 *(College Tech Fest)*
+* **Design Contributor** | CCET College Website Team *(Figma)*
 
 <br>
 
 <div align="center">
 
-### 💭
-
 <img src="assests/quote-card.svg" alt="In God we trust; all others bring data. — W. Edwards Deming" width="600"/>
 
-</div>
+<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=100&section=footer" alt="Footer"/>
+
+</div>
