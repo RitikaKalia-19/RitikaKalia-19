@@ -72,15 +72,15 @@
 
 </div>
 
-## Publication
+## 📚 Research & Publication
 
 **Real-Time Privacy Guardianship in XR Metaverses via AI-Driven Behavioral Analytics**
 
 Published and presented as an **e-Poster at IEEE ICIR 2026**, University of Pisa, Italy.
 
-- **IEEE Xplore:** https://ieeexplore.ieee.org/document/11628368
-- **GitHub Repository:** [This Repository]
-- **Presentation:** IEEE ICIR 2026 e-Poster
+* **IEEE Xplore:** https://ieeexplore.ieee.org/document/11628368
+* **GitHub:** [BehaviorShield Repository](https://github.com/RitikaKalia-19/Real_Time_Privacy_Guardianship_in_XR_Metaverses_via_AI_Driven_Behavioral_Analytics-)
+
 
 ### 🧭 Positions of Responsibility
 - **Chairperson** | ACM-W CCET Student Chapter (July 2025 – July 2026)
