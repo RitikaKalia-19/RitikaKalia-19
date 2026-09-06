@@ -48,16 +48,48 @@
 * 🔭 Open to **AI/ML Engineer / Full-Stack Developer roles**
 
 ### 🚀 Tech Stack
+### 🚀 Tech Stack
+
+**Languages**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,sql,js,html,css,django,flask,pytorch,git,figma&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=python,c,sql,js&theme=dark" alt="Languages"/>
 
-<br><br>
-
-`Python` `C` `SQL` `JavaScript` `HTML` `CSS` `Django` `Flask` `PyTorch` `Git` `Figma`
+`Python` `C` `SQL` `JavaScript`
 
 </div>
+
+**Web Development**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,django,flask&theme=dark" alt="Web Development"/>
+
+`HTML` `CSS` `Django` `Flask`
+
+</div>
+
+**AI / Machine Learning**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="AI/ML"/>
+
+`PyTorch` `Machine Learning` `Deep Learning` `Neural Networks`
+
+</div>
+
+**Tools & Design**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,figma&theme=dark" alt="Tools & Design"/>
+
+`Git` `Figma`
+
+</div>
+
 
 ### 📚 Research & Publication
 
