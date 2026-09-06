@@ -72,11 +72,15 @@
 
 </div>
 
-### 🏆 Honours & Awards
+## Publication
 
-- **IEEE ICIR 2026, e-Poster Presentation** — "Real-Time Privacy Guardianship in XR Metaverses"; VR attack detection at 92% accuracy, University of Pisa, Italy
-- **Publication:** "Memory in Conversational AI Agents: The Backbone of Long-Term Intelligence"
-- **3rd Position, Business Blueprint 2025 (IIC), CCET** — Pitched "Women Safety Analytics System," a multimodal AI/ML surveillance solution
+**Real-Time Privacy Guardianship in XR Metaverses via AI-Driven Behavioral Analytics**
+
+Published and presented as an **e-Poster at IEEE ICIR 2026**, University of Pisa, Italy.
+
+- **IEEE Xplore:** https://ieeexplore.ieee.org/document/11628368
+- **GitHub Repository:** [This Repository]
+- **Presentation:** IEEE ICIR 2026 e-Poster
 
 ### 🧭 Positions of Responsibility
 - **Chairperson** | ACM-W CCET Student Chapter (July 2025 – July 2026)
