@@ -2,11 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=80&section=header" alt="Top Wave"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=40&section=header" alt="Wave Top"/>
-
-<img width="100%" src="assests/animated-header.svg" alt="Ritika Kalia"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=40&section=footer" alt="Wave Bottom"/>
+<div style="border-radius: 15px; padding: 3px; background: linear-gradient(90deg, #6C63FF, #A78BFA);">
+  <img width="100%" src="assests/animated-header.svg" alt="Ritika Kalia" style="border-radius: 12px; display: block;"/>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=80&section=footer" alt="Bottom Wave"/>
 
