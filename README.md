@@ -9,7 +9,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=80&section=footer" alt="Bottom Wave"/>
 
 <a href="https://github.com/RitikaKalia-19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Fine-tuning+LLMs+with+QLoRA;Building+RAG+Systems;Experimenting+with+PyTorch+NNs+and+Deep+Learning;Learning+AI%2FML+Fundamentals%2C+Web+Development+HTML+CSS+JS+DJANGO+FLASK" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Fine-tuning+LLMs+with+QLoRA;Building+RAG+Systems;Experimenting+with+PyTorch+NNs+and+Deep+Learning;Learning+AI%2FML+Fundamentals;Learning+Web+Development+with+HTML%2C+CSS+%26+JavaScript;Exploring+Django+and+Flask" alt="Typing SVG"/>
 </a>
 
 <br><br>
