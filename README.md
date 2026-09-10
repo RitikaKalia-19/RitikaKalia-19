@@ -1,12 +1,10 @@
-<div align="center">
+<div align="center" style="border: 4px solid transparent; border-radius: 24px; background: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(135deg, #6C63FF, #A78BFA, #6C63FF) border-box; padding: 30px 24px; box-shadow: 0 0 30px rgba(167, 139, 250, 0.35);">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=80&section=header" alt="Top Wave"/>
 
 <div style="border-radius: 18px; padding: 4px; background: linear-gradient(135deg, #6C63FF, #A78BFA, #6C63FF); box-shadow: 0 0 25px rgba(167, 139, 250, 0.4);">
   <img width="100%" src="assests/animated-header (4).svg" alt="Ritika Kalia" style="border-radius: 15px; display: block;"/>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=80&section=footer" alt="Bottom Wave"/>
 
 <a href="https://github.com/RitikaKalia-19">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Fine-tuning+LLMs+with+QLoRA;Building+RAG+Systems;Experimenting+with+PyTorch+NNs+and+Deep+Learning;Learning+AI%2FML+Fundamentals;Learning+Web+Development+with+HTML%2C+CSS+%26+JavaScript;Exploring+Django+and+Flask" alt="Typing SVG"/>
@@ -24,11 +22,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-</div>
-
 ---
-
-<div align="center">
 
 <pre>
 ~ ❯ whoami
@@ -41,8 +35,6 @@
 ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
 </pre>
 
-</div>
-
 ### 🔭 About Me
 
 * 🎓 B.E. in Computer Science & Engineering @ Chandigarh College of Engineering & Technology 
@@ -54,43 +46,27 @@
 
 **Languages**
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,c,sql,js&theme=dark" alt="Languages"/>
 
 `Python` `C` `SQL` `JavaScript`
 
-</div>
-
 **Web Development**
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,django,flask&theme=dark" alt="Web Development"/>
 
 `HTML` `CSS` `Django` `Flask`
 
-</div>
-
 **AI / Machine Learning**
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="AI/ML"/>
 
 `PyTorch` `Machine Learning` `Deep Learning` `Neural Networks`
 
-</div>
-
 **Tools & Design**
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,figma&theme=dark" alt="Tools & Design"/>
 
 `Git` `Figma`
-
-</div>
 
 
 ### 📚 Research & Publications
@@ -126,10 +102,7 @@
 * **Design Contributor** | CCET College Website Team *(2025)*
   Designed official departmental web pages <a href="https://www.figma.com/design/EJHcxXhap6iQsPMuCwj77C/Home_civilDept?t=cfmDTdZftfIluvb2-1"> <img src="https://img.shields.io/badge/View%20Design%20on%20Figma-A78BFA?style=flat-square&logo=figma&logoColor=white" alt="Figma Design"/> </a>
 
-
 <br>
-
-<div align="center">
 
 <img src="assests/quote-card.svg" alt="In God we trust; all others bring data. — W. Edwards Deming" width="600"/>
 
