@@ -1,4 +1,4 @@
-<table align="center">
+<table align="center" border="6" bordercolor="#A78BFA" cellpadding="24" style="border-collapse:collapse;">
 <tr>
 <td>
 
@@ -38,6 +38,8 @@
 ██║  ██║██║   ██║   ██║██║  ██╗██║  ██║    ██║  ██╗██║  ██║███████╗██║██║  ██║
 ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
 </pre>
+
+</div>
 
 ### 🔭 About Me
 
@@ -82,12 +84,9 @@
 <a href="https://ieeexplore.ieee.org/document/11628368">
   <img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
 </a>
-
 <a href="https://github.com/RitikaKalia-19/Real_Time_Privacy_Guardianship_in_XR_Metaverses_via_AI_Driven_Behavioral_Analytics-">
   <img src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
 </a>
-
-<br><br>
 
 **Memory in Conversational AI Agents: The Backbone of Long-Term Intelligence**
 
@@ -99,14 +98,13 @@
 
 ### 🧭 Positions of Responsibility
 
-* **Chairperson** | ACM-W CCET Student Chapter *(2025–2026)* <a href="https://ccet.acm.org/teams"> <img src="https://img.shields.io/badge/ACM--W%20Team%20Page-A78BFA?style=flat-square&logo=acm&logoColor=white" alt="ACM-W Team Page"/> </a>
-
+* **Chairperson** | ACM-W CCET Student Chapter *(2025–2026)* <a href="https://ccet.acm.org/teams"><img src="https://img.shields.io/badge/ACM--W%20Team%20Page-A78BFA?style=flat-square&logo=acm&logoColor=white" alt="ACM-W Team Page"/></a>
 * **Technical Team Member** | CCET APRATIM 2025 *(College Tech Fest)*
-
-* **Design Contributor** | CCET College Website Team *(2025)*
-  Designed official departmental web pages <a href="https://www.figma.com/design/EJHcxXhap6iQsPMuCwj77C/Home_civilDept?t=cfmDTdZftfIluvb2-1"> <img src="https://img.shields.io/badge/View%20Design%20on%20Figma-A78BFA?style=flat-square&logo=figma&logoColor=white" alt="Figma Design"/> </a>
+* **Design Contributor** | CCET College Website Team *(2025)* — Designed official departmental web pages <a href="https://www.figma.com/design/EJHcxXhap6iQsPMuCwj77C/Home_civilDept?t=cfmDTdZftfIluvb2-1"><img src="https://img.shields.io/badge/View%20Design%20on%20Figma-A78BFA?style=flat-square&logo=figma&logoColor=white" alt="Figma Design"/></a>
 
 <br>
+
+<div align="center">
 
 <img src="assests/quote-card.svg" alt="In God we trust; all others bring data. — W. Edwards Deming" width="600"/>
 
