@@ -1,7 +1,3 @@
-<table align="center" border="6" bordercolor="#A78BFA" cellpadding="24" style="border-collapse:collapse;">
-<tr>
-<td>
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=80&section=header" alt="Top Wave"/>
@@ -9,6 +5,8 @@
 <div style="border-radius: 18px; padding: 4px; background: linear-gradient(135deg, #6C63FF, #A78BFA, #6C63FF); box-shadow: 0 0 25px rgba(167, 139, 250, 0.4);">
   <img width="100%" src="assests/animated-header (4).svg" alt="Ritika Kalia" style="border-radius: 15px; display: block;"/>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=80&section=footer" alt="Bottom Wave"/>
 
 <a href="https://github.com/RitikaKalia-19">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Fine-tuning+LLMs+with+QLoRA;Building+RAG+Systems;Experimenting+with+PyTorch+NNs+and+Deep+Learning;Learning+AI%2FML+Fundamentals;Learning+Web+Development+with+HTML%2C+CSS+%26+JavaScript;Exploring+Django+and+Flask" alt="Typing SVG"/>
@@ -26,7 +24,11 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
+</div>
+
 ---
+
+<div align="center">
 
 <pre>
 ~ ❯ whoami
@@ -52,27 +54,43 @@
 
 **Languages**
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,c,sql,js&theme=dark" alt="Languages"/>
 
 `Python` `C` `SQL` `JavaScript`
 
+</div>
+
 **Web Development**
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,django,flask&theme=dark" alt="Web Development"/>
 
 `HTML` `CSS` `Django` `Flask`
 
+</div>
+
 **AI / Machine Learning**
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="AI/ML"/>
 
 `PyTorch` `Machine Learning` `Deep Learning` `Neural Networks`
 
+</div>
+
 **Tools & Design**
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,figma&theme=dark" alt="Tools & Design"/>
 
 `Git` `Figma`
+
+</div>
 
 
 ### 📚 Research & Publications
@@ -84,9 +102,12 @@
 <a href="https://ieeexplore.ieee.org/document/11628368">
   <img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
 </a>
+
 <a href="https://github.com/RitikaKalia-19/Real_Time_Privacy_Guardianship_in_XR_Metaverses_via_AI_Driven_Behavioral_Analytics-">
   <img src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
 </a>
+
+<br><br>
 
 **Memory in Conversational AI Agents: The Backbone of Long-Term Intelligence**
 
@@ -98,9 +119,13 @@
 
 ### 🧭 Positions of Responsibility
 
-* **Chairperson** | ACM-W CCET Student Chapter *(2025–2026)* <a href="https://ccet.acm.org/teams"><img src="https://img.shields.io/badge/ACM--W%20Team%20Page-A78BFA?style=flat-square&logo=acm&logoColor=white" alt="ACM-W Team Page"/></a>
+* **Chairperson** | ACM-W CCET Student Chapter *(2025–2026)* <a href="https://ccet.acm.org/teams"> <img src="https://img.shields.io/badge/ACM--W%20Team%20Page-A78BFA?style=flat-square&logo=acm&logoColor=white" alt="ACM-W Team Page"/> </a>
+
 * **Technical Team Member** | CCET APRATIM 2025 *(College Tech Fest)*
-* **Design Contributor** | CCET College Website Team *(2025)* — Designed official departmental web pages <a href="https://www.figma.com/design/EJHcxXhap6iQsPMuCwj77C/Home_civilDept?t=cfmDTdZftfIluvb2-1"><img src="https://img.shields.io/badge/View%20Design%20on%20Figma-A78BFA?style=flat-square&logo=figma&logoColor=white" alt="Figma Design"/></a>
+
+* **Design Contributor** | CCET College Website Team *(2025)*
+  Designed official departmental web pages <a href="https://www.figma.com/design/EJHcxXhap6iQsPMuCwj77C/Home_civilDept?t=cfmDTdZftfIluvb2-1"> <img src="https://img.shields.io/badge/View%20Design%20on%20Figma-A78BFA?style=flat-square&logo=figma&logoColor=white" alt="Figma Design"/> </a>
+
 
 <br>
 
@@ -113,7 +138,3 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=100&section=footer" alt="Footer"/>
 
 </div>
-
-</td>
-</tr>
-</table>
