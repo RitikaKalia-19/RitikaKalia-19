@@ -1,4 +1,8 @@
-<div align="center" style="border: 4px solid transparent; border-radius: 24px; background: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(135deg, #6C63FF, #A78BFA, #6C63FF) border-box; padding: 30px 24px; box-shadow: 0 0 30px rgba(167, 139, 250, 0.35);">
+<table align="center">
+<tr>
+<td>
+
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=80&section=header" alt="Top Wave"/>
 
@@ -111,3 +115,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=100&section=footer" alt="Footer"/>
 
 </div>
+
+</td>
+</tr>
+</table>
