@@ -1,140 +1,262 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=80&section=header" alt="Top Wave"/>
+<img src="./assets/banner.svg" alt="Ritika Kalia — AI/ML Engineer" width="100%" />
 
-<div style="border-radius: 18px; padding: 4px; background: linear-gradient(135deg, #6C63FF, #A78BFA, #6C63FF); box-shadow: 0 0 25px rgba(167, 139, 250, 0.4);">
-  <img width="100%" src="assests/animated-header (4).svg" alt="Ritika Kalia" style="border-radius: 15px; display: block;"/>
-</div>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=80&section=footer" alt="Bottom Wave"/>
-
-<a href="https://github.com/RitikaKalia-19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Fine-tuning+LLMs+with+QLoRA;Building+RAG+Systems;Experimenting+with+PyTorch+NNs+and+Deep+Learning;Learning+AI%2FML+Fundamentals;Learning+Web+Development+with+HTML%2C+CSS+%26+JavaScript;Exploring+Django+and+Flask" alt="Typing SVG"/>
+<a href="https://github.com/RitikaKalia9">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=780&height=45&lines=whoami;cat+focus.txt;echo+%22Building+intelligent+solutions%22;git+push+origin+future" alt="typing" />
 </a>
 
-<br><br>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/ritika-kalia-809984330/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20Full--Stack%20roles-22d3ee?style=for-the-badge&labelColor=0f0a1f" />
+<img src="https://img.shields.io/badge/Based%20in-Chandigarh%2C%20India-a78bfa?style=for-the-badge&labelColor=0f0a1f" />
 
-<img src="https://komarev.com/ghpvc/?username=RitikaKalia-19&label=PROFILE+VIEWS&color=A78BFA&style=for-the-badge" alt="Profile Views"/>
+<br/><br/>
 
-<a href="mailto:kaliaritika489@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+<a href="https://github.com/RitikaKalia9"><img src="https://img.shields.io/badge/GitHub-0f0a1f?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
+<a href="https://linkedin.com/in/ritikakalia"><img src="https://img.shields.io/badge/LinkedIn-0f0a1f?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
+<a href="mailto:ritikakalia1@gmail.com"><img src="https://img.shields.io/badge/Email-0f0a1f?style=for-the-badge&logo=gmail&logoColor=fbbf24" /></a>
+<a href="https://github.com/RitikaKalia9/RitikaKalia9/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-0f0a1f?style=for-the-badge&logo=readdotcv&logoColor=a78bfa" /></a>
 
 </div>
 
 ---
 
+<h3>// About</h3>
+
+B.E. CSE @ CCET, Chandigarh. I build AI systems that solve real problems — multilingual legal assistants, video violence detection, and privacy guardianship for XR metaverses.
+
 <div align="center">
 
-<pre>
-~ ❯ whoami
-
-██████╗ ██╗████████╗██╗██╗  ██╗ █████╗     ██╗  ██╗ █████╗ ██╗     ██╗ █████╗
-██╔══██╗██║╚══██╔══╝██║██║ ██╔╝██╔══██╗    ██║ ██╔╝██╔══██╗██║     ██║██╔══██╗
-██████╔╝██║   ██║   ██║█████╔╝ ███████║    █████╔╝ ███████║██║     ██║███████║
-██╔══██╗██║   ██║   ██║██╔═██╗ ██╔══██║    ██╔═██╗ ██╔══██║██║     ██║██╔══██║
-██║  ██║██║   ██║   ██║██║  ██╗██║  ██║    ██║  ██╗██║  ██║███████╗██║██║  ██║
-╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
-</pre>
+<img src="https://img.shields.io/badge/9.45-CGPA%20%C2%B7%20B.E.%20CSE-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
+<img src="https://img.shields.io/badge/31-GitHub%20Repos-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
+<img src="https://img.shields.io/badge/2-Publications-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
+<img src="https://img.shields.io/badge/196-Contributions%20%C2%B7%202025-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
 
 </div>
 
-### 🔭 About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* 🎓 B.E. in Computer Science & Engineering @ Chandigarh College of Engineering & Technology 
-* 🐍 Interested in **Python, Flask, Django, Machine Learning, Deep Learning, and Neural Networks using PyTorch**
-* 🔭 Open to **AI/ML Engineer / Full-Stack Developer roles**
+**🧪 Research Interests**
 
+Multilingual NLP, retrieval-augmented generation, video understanding, privacy analytics in XR, and long-term memory for conversational agents.
 
-### 🚀 Tech Stack
+</td>
+<td width="50%" valign="top">
+
+**🧭 Currently**
+
+Fine-tuning LLMs for Indic legal Q&A, and building RAG pipelines with cross-model refinement. Looking for AI/ML and full-stack roles where I can ship fast and learn faster.
+
+</td>
+</tr>
+</table>
+
+```console
+ritika@universe:~$ whoami
+AI/ML engineer · full-stack dev · researcher · ACM-W chairperson
+
+ritika@universe:~$ cat focus.txt
+Indic LLMs · RAG · VideoMAE · XR privacy · Django/Flask
+
+ritika@universe:~$ cat mantra.txt
+Build things that work. Then make them beautiful.
+
+ritika@universe:~$ _
+```
+
+> **"In God we trust; all others bring data."**
+> — W. Edwards Deming
+
+---
+
+<h3>// Toolkit</h3>
+
+<div align="center">
 
 **Languages**
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,sql,js&theme=dark" alt="Languages"/>
-
-`Python` `C` `SQL` `JavaScript`
-
-</div>
+<img src="https://img.shields.io/badge/Python-a78bfa?style=for-the-badge&logo=python&logoColor=06040d" />
+<img src="https://img.shields.io/badge/C-a78bfa?style=for-the-badge&logo=c&logoColor=06040d" />
+<img src="https://img.shields.io/badge/SQL-a78bfa?style=for-the-badge&logo=mysql&logoColor=06040d" />
+<img src="https://img.shields.io/badge/JavaScript-a78bfa?style=for-the-badge&logo=javascript&logoColor=06040d" />
 
 **Web Development**
 
-<div align="center">
+<img src="https://img.shields.io/badge/HTML5-22d3ee?style=for-the-badge&logo=html5&logoColor=06040d" />
+<img src="https://img.shields.io/badge/CSS3-22d3ee?style=for-the-badge&logo=css3&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Django-22d3ee?style=for-the-badge&logo=django&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Flask-22d3ee?style=for-the-badge&logo=flask&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Bootstrap-22d3ee?style=for-the-badge&logo=bootstrap&logoColor=06040d" />
 
-<img src="https://skillicons.dev/icons?i=html,css,django,flask&theme=dark" alt="Web Development"/>
+**AI / ML**
 
-`HTML` `CSS` `Django` `Flask`
-
-</div>
-
-**AI / Machine Learning**
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="AI/ML"/>
-
-`PyTorch` `Machine Learning` `Deep Learning` `Neural Networks`
-
-</div>
+<img src="https://img.shields.io/badge/PyTorch-c4b5fd?style=for-the-badge&logo=pytorch&logoColor=06040d" />
+<img src="https://img.shields.io/badge/scikit--learn-c4b5fd?style=for-the-badge&logo=scikitlearn&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Hugging%20Face-c4b5fd?style=for-the-badge&logo=huggingface&logoColor=06040d" />
+<img src="https://img.shields.io/badge/QLoRA-c4b5fd?style=for-the-badge&logo=openai&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Jupyter-c4b5fd?style=for-the-badge&logo=jupyter&logoColor=06040d" />
 
 **Tools & Design**
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,figma&theme=dark" alt="Tools & Design"/>
-
-`Git` `Figma`
+<img src="https://img.shields.io/badge/Git-a78bfa?style=for-the-badge&logo=git&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Figma-a78bfa?style=for-the-badge&logo=figma&logoColor=06040d" />
+<img src="https://img.shields.io/badge/VS%20Code-a78bfa?style=for-the-badge&logo=visualstudiocode&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Linux-a78bfa?style=for-the-badge&logo=linux&logoColor=06040d" />
 
 </div>
 
+---
 
-### 📚 Research & Publications
+<h3>// Selected Work</h3>
+
+**01 · Multilingual Legal Q&A with Cross-LLM Refinement**
+
+`Python` `PyTorch` `QLoRA` `Qwen2.5-3B` `Flask`
+
+Fine-tuned Qwen2.5-3B with QLoRA into 4 language adapters (English, Hindi, Punjabi, Nepali) for Indian legal Q&A. Built retrieval with BGE/LaBSE embeddings and a two-model pipeline where Qwen2.5-7B critiques and refines answers. Added an NLI entailment check to catch factual drift during refinement.
+
+→ [**Code**](https://github.com/RitikaKalia9/Multilingual_Legal_Q-A_Cross-LLM_Hallucination_Detection-Refinement)
+
+<br/>
+
+**02 · MMVDNet — Video Violence Detection**
+
+`Python` `PyTorch` `VideoMAE` `Flask`
+
+Fight-scene detection on a VideoMAE backbone (Kinetics-pretrained) with multi-clip sampling, achieving 96% accuracy on the RWF-2000 benchmark. Deployed as a Flask app where users can upload a video or paste a YouTube Shorts link for real-time detection.
+
+→ [**Code**](https://github.com/RitikaKalia9/mvdnet)
+
+<br/>
+
+**03 · StellerCart — Full-Stack E-Commerce**
+
+`Django` `Python` `Bootstrap` `JavaScript`
+
+Built a full-stack e-commerce site with Google sign-in, product listings, cart, and checkout. Designed 7 related models with Django ORM, added AJAX cart updates with CSRF protection, and integrated Razorpay (test mode) with server-side charge calculation and signature verification.
+
+→ [**Code**](https://github.com/RitikaKalia9/Full-Stack-E-Commerce-Platform-StellerCart-)
+
+<br/>
+
+**04 · Real-Time Privacy Guardianship in XR Metaverses**
+
+`Python` `AI/ML` `Behavioral Analytics`
+
+AI-driven behavioral analytics pipeline achieving 92% accuracy and 0.976 ROC-AUC for detecting VR privacy attacks. Published and presented as an e-Poster at IEEE ICIR 2026, University of Pisa, Italy.
+
+→ [**Code**](https://github.com/RitikaKalia9/Real_Time_Privacy_Guardianship_in_XR_Metaverses_via_AI_Driven_Behavioral_Analytics-)
+
+<br/>
+
+**05 · Dementia Memory Project**
+
+`JavaScript` `Web`
+
+A web platform designed to assist individuals affected by dementia and their caregivers. Includes cognitive games, face tracking, relaxation music, journaling, and event reminders.
+
+→ [**Code**](https://github.com/RitikaKalia9/Dementia_memory_project)
+
+<br/>
+
+**06 · MusicBox**
+
+`JavaScript` `Web`
+
+An interactive browser-based music player built from scratch in vanilla JavaScript. Focuses on clean UI, audio controls, and playlist management without any framework.
+
+→ [**Code**](https://github.com/RitikaKalia9/MusicBox)
+
+---
+
+<h3>// Research</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**IEEE ICIR · 2026**
 
 **Real-Time Privacy Guardianship in XR Metaverses via AI-Driven Behavioral Analytics**
 
-*Published and presented as an **e-Poster at IEEE ICIR 2026**, University of Pisa, Italy.*
+Published and presented as an e-Poster at IEEE ICIR 2026, University of Pisa, Italy. Pipeline achieved 92% accuracy and 0.976 ROC-AUC.
 
-<a href="https://ieeexplore.ieee.org/document/11628368">
-  <img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
-</a>
+</td>
+<td width="50%" valign="top">
 
-<a href="https://github.com/RitikaKalia-19/Real_Time_Privacy_Guardianship_in_XR_Metaverses_via_AI_Driven_Behavioral_Analytics-">
-  <img src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
-</a>
-
-<br><br>
+**Insights2Techinfo · 2025**
 
 **Memory in Conversational AI Agents: The Backbone of Long-Term Intelligence**
 
-*Published in Insights2Techinfo.*
+Published in Insights2Techinfo. Explores how long-term memory shapes coherent, useful conversational agents.
 
-<a href="https://insights2techinfo.com/memory-in-conversational-ai-agents-the-backbone-of-long-term-intelligence/">
-  <img src="https://img.shields.io/badge/Read%20Publication-A78BFA?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read Publication"/>
-</a>
+</td>
+</tr>
+</table>
 
-### 🧭 Positions of Responsibility
+---
 
-* **Chairperson** | ACM-W CCET Student Chapter *(2025–2026)* <a href="https://ccet.acm.org/teams"> <img src="https://img.shields.io/badge/ACM--W%20Team%20Page-A78BFA?style=flat-square&logo=acm&logoColor=white" alt="ACM-W Team Page"/> </a>
+<h3>// Journey</h3>
 
-* **Technical Team Member** | CCET APRATIM 2025 *(College Tech Fest)*
+| | | |
+|:---|:---|:---|
+| `2024 — 2027` | **B.E. Computer Science & Engineering** | Chandigarh College of Engineering & Technology |
+| `2025 — 2026` | **Chairperson — ACM-W Student Chapter** | CCET, Chandigarh |
+| `2025` | **Technical Team · APRATIM 2025** | CCET College Tech Fest |
+| `2025` | **Design Contributor · CCET Website Team** | Figma |
+| `2022 — 2024` | **Diploma in Computer Science & Engineering** | Chandigarh College of Engineering & Technology |
+| `Training` | **Python Programming** | CS Soft Solutions (I) Pvt. Ltd. |
 
-* **Design Contributor** | CCET College Website Team *(2025)*
-  Designed official departmental web pages <a href="https://www.figma.com/design/EJHcxXhap6iQsPMuCwj77C/Home_civilDept?t=cfmDTdZftfIluvb2-1"> <img src="https://img.shields.io/badge/View%20Design%20on%20Figma-A78BFA?style=flat-square&logo=figma&logoColor=white" alt="Figma Design"/> </a>
+---
 
-
-<br>
+<h3>// GitHub Stats</h3>
 
 <div align="center">
 
-<img src="assests/quote-card.svg" alt="In God we trust; all others bring data. — W. Edwards Deming" width="600"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RitikaKalia9&show_icons=true&bg_color=0f0a1f&title_color=a78bfa&text_color=8b82a8&icon_color=22d3ee&border_color=2a1f45&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikaKalia9&layout=compact&langs_count=8&bg_color=0f0a1f&title_color=a78bfa&text_color=8b82a8&border_color=2a1f45" />
 
-<br><br>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=100&section=footer" alt="Footer"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RitikaKalia9&bg_color=0f0a1f&color=a78bfa&line=22d3ee&point=e9e6f5&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" />
 
+<br/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=RitikaKalia9&background=0f0a1f&border=2a1f45&stroke=a78bfa&ring=22d3ee&fire=fbbf24&currStreakLabel=a78bfa&sideLabels=8b82a8&dates=8b82a8&currStreakNum=e9e6f5&sideNums=e9e6f5" />
+
+</div>
+
+---
+
+<h3>// Contact</h3>
+
+<div align="center">
+
+**Let's build something.**
+
+Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, and interesting problems.
+
+<a href="mailto:ritikakalia1@gmail.com">
+  <img src="https://img.shields.io/badge/ritikakalia1%40gmail.com-22d3ee?style=for-the-badge&logo=maildotru&logoColor=06040d" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/RitikaKalia9"><img src="https://img.shields.io/badge/GitHub-0f0a1f?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
+<a href="https://linkedin.com/in/ritikakalia"><img src="https://img.shields.io/badge/LinkedIn-0f0a1f?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
+<a href="https://github.com/RitikaKalia9/RitikaKalia9/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-0f0a1f?style=for-the-badge&logo=adobeacrobatreader&logoColor=fbbf24" /></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a78bfa,100:7c3aed&height=120&section=footer" width="100%" />
+
+<div align="center">
+<sub>© 2026 Ritika Kalia · Built with ♥ in Chandigarh</sub>
 </div>
