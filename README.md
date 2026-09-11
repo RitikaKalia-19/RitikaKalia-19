@@ -156,8 +156,6 @@ AI-driven behavioral analytics pipeline achieving 92% accuracy and 0.976 ROC-AUC
 
 <br/>
 
-
-
 **05 · MusicBox**
 
 `JavaScript` `Web`
@@ -259,6 +257,12 @@ Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a78bfa,100:7c3aed&height=120&section=footer" width="100%" />
 
-<div align="center">
+<br><br>
+
 <sub>© 2026 Ritika Kalia · Built with ♥ in Chandigarh</sub>
+
+</div>
+
+</div>
+
 </div>
