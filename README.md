@@ -1,5 +1,10 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=80&section=header" alt="Top Wave"/>
+
+<div style="border-radius: 18px; padding: 4px; background: linear-gradient(135deg, #6C63FF, #A78BFA, #6C63FF); box-shadow: 0 0 25px rgba(167, 139, 250, 0.4);">
+<div align="center">
+
 <img src="./assests/animated-header (4).svg" alt="Ritika Kalia — AI/ML Engineer" width="100%" />
 
 <br/>
