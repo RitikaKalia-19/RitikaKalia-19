@@ -185,15 +185,23 @@ An interactive browser-based music player built from scratch in vanilla JavaScri
 **IEEE ICIR · 2026**
 
 **Real-Time Privacy Guardianship in XR Metaverses via AI-Driven Behavioral Analytics**
-
+<a href="https://ieeexplore.ieee.org/document/11628368">
+  <img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
+</a>
 Published and presented as an e-Poster at IEEE ICIR 2026, University of Pisa, Italy. Pipeline achieved 92% accuracy and 0.976 ROC-AUC.
-
+<a href="https://github.com/RitikaKalia-19/Real_Time_Privacy_Guardianship_in_XR_Metaverses_via_AI_Driven_Behavioral_Analytics-">
+  <img src="https://img.shields.io/badge/Repository-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+</a>
 </td>
 <td width="50%" valign="top">
 
 **Insights2Techinfo · 2025**
 
 **Memory in Conversational AI Agents: The Backbone of Long-Term Intelligence**
+
+<a href="https://insights2techinfo.com/memory-in-conversational-ai-agents-the-backbone-of-long-term-intelligence/">
+  <img src="https://img.shields.io/badge/Read%20Publication-A78BFA?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read Publication"/>
+</a>
 
 Published in Insights2Techinfo. Explores how long-term memory shapes coherent, useful conversational agents.
 
