@@ -1,145 +1,262 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Ritika Kalia — AI/ML Engineer">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#06040d"/>
-      <stop offset="55%" stop-color="#0b0716"/>
-      <stop offset="100%" stop-color="#04020a"/>
-    </linearGradient>
-    <radialGradient id="neb1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.85"/>
-      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="neb2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="neb3" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.42"/>
-      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#c4b5fd"/>
-      <stop offset="45%" stop-color="#a78bfa"/>
-      <stop offset="100%" stop-color="#22d3ee"/>
-    </linearGradient>
-    <radialGradient id="planetG" cx="35%" cy="30%" r="78%">
-      <stop offset="0%" stop-color="#c4b5fd"/>
-      <stop offset="28%" stop-color="#a78bfa"/>
-      <stop offset="58%" stop-color="#7c3aed"/>
-      <stop offset="100%" stop-color="#3b0764"/>
-    </radialGradient>
-    <radialGradient id="tealG" cx="32%" cy="30%" r="78%">
-      <stop offset="0%" stop-color="#67e8f9"/>
-      <stop offset="32%" stop-color="#22d3ee"/>
-      <stop offset="72%" stop-color="#0e7490"/>
-      <stop offset="100%" stop-color="#083344"/>
-    </radialGradient>
-    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="30"/>
-    </filter>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="5" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="frame"><rect x="0" y="0" width="1200" height="340"/></clipPath>
-  </defs>
+<div align="center">
 
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="340" fill="url(#bg)"/>
+<img src="./assets/banner.svg" alt="Ritika Kalia — AI/ML Engineer" width="100%" />
 
-    <ellipse cx="120" cy="60" rx="420" ry="280" fill="url(#neb1)" filter="url(#soft)"/>
-    <ellipse cx="1080" cy="300" rx="380" ry="240" fill="url(#neb2)" filter="url(#soft)"/>
-    <ellipse cx="700" cy="-40" rx="340" ry="200" fill="url(#neb3)" filter="url(#soft)"/>
-    <ellipse cx="500" cy="360" rx="460" ry="200" fill="url(#neb1)" filter="url(#soft)" opacity="0.5"/>
+<br/>
 
-    <g fill="#c4b5fd">
-      <circle cx="42" cy="38" r="1.4" opacity="0.7"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.6s" repeatCount="indefinite"/></circle>
-      <circle cx="118" cy="92" r="1.1" opacity="0.6"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.4s" repeatCount="indefinite"/></circle>
-      <circle cx="196" cy="34" r="1.6" opacity="0.8"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.1s" repeatCount="indefinite"/></circle>
-      <circle cx="268" cy="120" r="1" opacity="0.5"><animate attributeName="opacity" values="0.25;0.85;0.25" dur="5.2s" repeatCount="indefinite"/></circle>
-      <circle cx="330" cy="52" r="1.3" opacity="0.7"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="4.0s" repeatCount="indefinite"/></circle>
-      <circle cx="404" cy="146" r="1.1" opacity="0.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.8s" repeatCount="indefinite"/></circle>
-      <circle cx="470" cy="70" r="1.5" opacity="0.75"><animate attributeName="opacity" values="0.1;0.85;0.1" dur="4.8s" repeatCount="indefinite"/></circle>
-      <circle cx="540" cy="28" r="1" opacity="0.55"><animate attributeName="opacity" values="0.3;0.95;0.3" dur="3.3s" repeatCount="indefinite"/></circle>
-      <circle cx="610" cy="112" r="1.2" opacity="0.65"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="5.0s" repeatCount="indefinite"/></circle>
-      <circle cx="688" cy="44" r="1.4" opacity="0.7"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.9s" repeatCount="indefinite"/></circle>
-      <circle cx="752" cy="168" r="1" opacity="0.5"><animate attributeName="opacity" values="0.25;0.8;0.25" dur="4.6s" repeatCount="indefinite"/></circle>
-      <circle cx="820" cy="58" r="1.3" opacity="0.7"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.4s" repeatCount="indefinite"/></circle>
-      <circle cx="890" cy="128" r="1.1" opacity="0.6"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="5.4s" repeatCount="indefinite"/></circle>
-      <circle cx="960" cy="36" r="1.5" opacity="0.75"><animate attributeName="opacity" values="0.1;1;0.1" dur="4.1s" repeatCount="indefinite"/></circle>
-      <circle cx="1030" cy="150" r="1" opacity="0.5"><animate attributeName="opacity" values="0.3;0.85;0.3" dur="3.7s" repeatCount="indefinite"/></circle>
-      <circle cx="1102" cy="72" r="1.3" opacity="0.7"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="4.9s" repeatCount="indefinite"/></circle>
-      <circle cx="1160" cy="196" r="1.1" opacity="0.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
-      <circle cx="86" cy="238" r="1.2" opacity="0.6"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.3s" repeatCount="indefinite"/></circle>
-      <circle cx="222" cy="284" r="1" opacity="0.5"><animate attributeName="opacity" values="0.3;0.85;0.3" dur="5.1s" repeatCount="indefinite"/></circle>
-      <circle cx="380" cy="248" r="1.4" opacity="0.7"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.5s" repeatCount="indefinite"/></circle>
-      <circle cx="512" cy="300" r="1.1" opacity="0.55"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.7s" repeatCount="indefinite"/></circle>
-      <circle cx="648" cy="266" r="1.3" opacity="0.68"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.9s" repeatCount="indefinite"/></circle>
-      <circle cx="790" cy="304" r="1" opacity="0.5"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="5.3s" repeatCount="indefinite"/></circle>
-      <circle cx="930" cy="258" r="1.2" opacity="0.62"><animate attributeName="opacity" values="0.2;0.95;0.2" dur="4.2s" repeatCount="indefinite"/></circle>
-      <circle cx="1064" cy="290" r="1.4" opacity="0.7"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.6s" repeatCount="indefinite"/></circle>
-      <circle cx="1150" cy="248" r="1" opacity="0.5"><animate attributeName="opacity" values="0.25;0.85;0.25" dur="4.5s" repeatCount="indefinite"/></circle>
-    </g>
+<a href="https://github.com/RitikaKalia9">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=780&height=45&lines=whoami;cat+focus.txt;echo+%22Building+intelligent+solutions%22;git+push+origin+future" alt="typing" />
+</a>
 
-    <g fill="#fde68a">
-      <circle cx="152" cy="176" r="1.1" opacity="0.55"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="5.6s" repeatCount="indefinite"/></circle>
-      <circle cx="712" cy="212" r="0.9" opacity="0.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.9s" repeatCount="indefinite"/></circle>
-      <circle cx="1006" cy="30" r="1.2" opacity="0.6"><animate attributeName="opacity" values="0.15;0.85;0.15" dur="3.8s" repeatCount="indefinite"/></circle>
-    </g>
+<br/><br/>
 
-    <g fill="#a5f3fc">
-      <circle cx="290" cy="196" r="1" opacity="0.55"><animate attributeName="opacity" values="0.2;0.95;0.2" dur="4.0s" repeatCount="indefinite"/></circle>
-      <circle cx="852" cy="216" r="1.1" opacity="0.6"><animate attributeName="opacity" values="0.25;1;0.25" dur="5.0s" repeatCount="indefinite"/></circle>
-      <circle cx="580" cy="164" r="0.9" opacity="0.5"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.7s" repeatCount="indefinite"/></circle>
-    </g>
+<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20Full--Stack%20roles-22d3ee?style=for-the-badge&labelColor=0f0a1f" />
+<img src="https://img.shields.io/badge/Based%20in-Chandigarh%2C%20India-a78bfa?style=for-the-badge&labelColor=0f0a1f" />
 
-    <g transform="translate(1010 168)">
-      <g transform="rotate(-22)">
-        <ellipse rx="152" ry="34" fill="none" stroke="#a78bfa" stroke-opacity="0.28" stroke-width="2.5"/>
-        <ellipse rx="128" ry="27" fill="none" stroke="#c4b5fd" stroke-opacity="0.18" stroke-width="1.5"/>
-      </g>
-      <circle r="76" fill="url(#planetG)" opacity="0.95"/>
-      <circle r="76" fill="none" stroke="#c4b5fd" stroke-opacity="0.25" stroke-width="1"/>
-      <g opacity="0.14">
-        <ellipse cy="-18" rx="72" ry="7" fill="#ffffff"/>
-        <ellipse cy="10" rx="74" ry="5" fill="#ffffff"/>
-        <ellipse cy="36" rx="66" ry="6" fill="#ffffff"/>
-      </g>
-      <circle cx="-24" cy="-26" r="26" fill="#ffffff" opacity="0.10"/>
-      <g transform="rotate(-22)">
-        <path d="M -152 0 A 152 34 0 0 0 152 0" fill="none" stroke="#a78bfa" stroke-opacity="0.55" stroke-width="3"/>
-        <path d="M -128 0 A 128 27 0 0 0 128 0" fill="none" stroke="#22d3ee" stroke-opacity="0.3" stroke-width="1.5"/>
-      </g>
-      <circle r="92" fill="url(#neb1)" opacity="0.35" filter="url(#soft)"/>
-    </g>
+<br/><br/>
 
-    <g transform="translate(880 288)">
-      <circle r="26" fill="url(#tealG)" opacity="0.85"/>
-      <circle cx="-8" cy="-9" r="9" fill="#ffffff" opacity="0.12"/>
-      <circle r="34" fill="url(#neb2)" opacity="0.4" filter="url(#soft)"/>
-    </g>
+<a href="https://github.com/RitikaKalia9"><img src="https://img.shields.io/badge/GitHub-0f0a1f?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
+<a href="https://linkedin.com/in/ritikakalia"><img src="https://img.shields.io/badge/LinkedIn-0f0a1f?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
+<a href="mailto:ritikakalia1@gmail.com"><img src="https://img.shields.io/badge/Email-0f0a1f?style=for-the-badge&logo=gmail&logoColor=fbbf24" /></a>
+<a href="https://github.com/RitikaKalia9/RitikaKalia9/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-0f0a1f?style=for-the-badge&logo=readdotcv&logoColor=a78bfa" /></a>
 
-    <g transform="translate(196 60)">
-      <circle r="14" fill="#fbbf24" opacity="0.55"/>
-      <circle cx="-4" cy="-5" r="5" fill="#ffffff" opacity="0.18"/>
-    </g>
+</div>
 
-    <circle cx="742" cy="86" r="5" fill="#e2e8f0" opacity="0.75" filter="url(#glow)"/>
+---
 
-    <g font-family="'Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif">
-      <text x="70" y="152" font-size="66" font-weight="700" letter-spacing="-2" fill="url(#nameGrad)" filter="url(#glow)">Ritika Kalia</text>
-      <text x="70" y="200" font-size="20" font-weight="500" letter-spacing="0.4" fill="#8b82a8">AI/ML Engineer  ·  Researcher  ·  Full-Stack Developer</text>
-    </g>
+<h3>// About</h3>
 
-    <g font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15">
-      <text x="70" y="252" fill="#22d3ee">~$</text>
-      <text x="110" y="252" fill="#e9e6f5">cat focus.txt</text>
-      <text x="70" y="280" fill="#8b82a8">Indic LLMs · RAG · VideoMAE · XR privacy · Django/Flask</text>
-      <rect x="70" y="290" width="9" height="2" fill="#22d3ee">
-        <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
-      </rect>
-    </g>
+B.E. CSE @ CCET, Chandigarh. I build AI systems that solve real problems — multilingual legal assistants, video violence detection, and privacy guardianship for XR metaverses.
 
-    <rect x="0.5" y="0.5" width="1199" height="339" fill="none" stroke="#a78bfa" stroke-opacity="0.18"/>
-  </g>
-</svg>
+<div align="center">
+
+<img src="https://img.shields.io/badge/9.45-CGPA%20%C2%B7%20B.E.%20CSE-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
+<img src="https://img.shields.io/badge/31-GitHub%20Repos-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
+<img src="https://img.shields.io/badge/2-Publications-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
+<img src="https://img.shields.io/badge/196-Contributions%20%C2%B7%202025-7c3aed?style=for-the-badge&labelColor=0f0a1f" />
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧪 Research Interests**
+
+Multilingual NLP, retrieval-augmented generation, video understanding, privacy analytics in XR, and long-term memory for conversational agents.
+
+</td>
+<td width="50%" valign="top">
+
+**🧭 Currently**
+
+Fine-tuning LLMs for Indic legal Q&A, and building RAG pipelines with cross-model refinement. Looking for AI/ML and full-stack roles where I can ship fast and learn faster.
+
+</td>
+</tr>
+</table>
+
+```console
+ritika@universe:~$ whoami
+AI/ML engineer · full-stack dev · researcher · ACM-W chairperson
+
+ritika@universe:~$ cat focus.txt
+Indic LLMs · RAG · VideoMAE · XR privacy · Django/Flask
+
+ritika@universe:~$ cat mantra.txt
+Build things that work. Then make them beautiful.
+
+ritika@universe:~$ _
+```
+
+> **"In God we trust; all others bring data."**
+> — W. Edwards Deming
+
+---
+
+<h3>// Toolkit</h3>
+
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-a78bfa?style=for-the-badge&logo=python&logoColor=06040d" />
+<img src="https://img.shields.io/badge/C-a78bfa?style=for-the-badge&logo=c&logoColor=06040d" />
+<img src="https://img.shields.io/badge/SQL-a78bfa?style=for-the-badge&logo=mysql&logoColor=06040d" />
+<img src="https://img.shields.io/badge/JavaScript-a78bfa?style=for-the-badge&logo=javascript&logoColor=06040d" />
+
+**Web Development**
+
+<img src="https://img.shields.io/badge/HTML5-22d3ee?style=for-the-badge&logo=html5&logoColor=06040d" />
+<img src="https://img.shields.io/badge/CSS3-22d3ee?style=for-the-badge&logo=css3&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Django-22d3ee?style=for-the-badge&logo=django&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Flask-22d3ee?style=for-the-badge&logo=flask&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Bootstrap-22d3ee?style=for-the-badge&logo=bootstrap&logoColor=06040d" />
+
+**AI / ML**
+
+<img src="https://img.shields.io/badge/PyTorch-c4b5fd?style=for-the-badge&logo=pytorch&logoColor=06040d" />
+<img src="https://img.shields.io/badge/scikit--learn-c4b5fd?style=for-the-badge&logo=scikitlearn&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Hugging%20Face-c4b5fd?style=for-the-badge&logo=huggingface&logoColor=06040d" />
+<img src="https://img.shields.io/badge/QLoRA-c4b5fd?style=for-the-badge&logo=openai&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Jupyter-c4b5fd?style=for-the-badge&logo=jupyter&logoColor=06040d" />
+
+**Tools & Design**
+
+<img src="https://img.shields.io/badge/Git-a78bfa?style=for-the-badge&logo=git&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Figma-a78bfa?style=for-the-badge&logo=figma&logoColor=06040d" />
+<img src="https://img.shields.io/badge/VS%20Code-a78bfa?style=for-the-badge&logo=visualstudiocode&logoColor=06040d" />
+<img src="https://img.shields.io/badge/Linux-a78bfa?style=for-the-badge&logo=linux&logoColor=06040d" />
+
+</div>
+
+---
+
+<h3>// Selected Work</h3>
+
+**01 · Multilingual Legal Q&A with Cross-LLM Refinement**
+
+`Python` `PyTorch` `QLoRA` `Qwen2.5-3B` `Flask`
+
+Fine-tuned Qwen2.5-3B with QLoRA into 4 language adapters (English, Hindi, Punjabi, Nepali) for Indian legal Q&A. Built retrieval with BGE/LaBSE embeddings and a two-model pipeline where Qwen2.5-7B critiques and refines answers. Added an NLI entailment check to catch factual drift during refinement.
+
+→ [**Code**](https://github.com/RitikaKalia9/Multilingual_Legal_Q-A_Cross-LLM_Hallucination_Detection-Refinement)
+
+<br/>
+
+**02 · MMVDNet — Video Violence Detection**
+
+`Python` `PyTorch` `VideoMAE` `Flask`
+
+Fight-scene detection on a VideoMAE backbone (Kinetics-pretrained) with multi-clip sampling, achieving 96% accuracy on the RWF-2000 benchmark. Deployed as a Flask app where users can upload a video or paste a YouTube Shorts link for real-time detection.
+
+→ [**Code**](https://github.com/RitikaKalia9/mvdnet)
+
+<br/>
+
+**03 · StellerCart — Full-Stack E-Commerce**
+
+`Django` `Python` `Bootstrap` `JavaScript`
+
+Built a full-stack e-commerce site with Google sign-in, product listings, cart, and checkout. Designed 7 related models with Django ORM, added AJAX cart updates with CSRF protection, and integrated Razorpay (test mode) with server-side charge calculation and signature verification.
+
+→ [**Code**](https://github.com/RitikaKalia9/Full-Stack-E-Commerce-Platform-StellerCart-)
+
+<br/>
+
+**04 · Real-Time Privacy Guardianship in XR Metaverses**
+
+`Python` `AI/ML` `Behavioral Analytics`
+
+AI-driven behavioral analytics pipeline achieving 92% accuracy and 0.976 ROC-AUC for detecting VR privacy attacks. Published and presented as an e-Poster at IEEE ICIR 2026, University of Pisa, Italy.
+
+→ [**Code**](https://github.com/RitikaKalia9/Real_Time_Privacy_Guardianship_in_XR_Metaverses_via_AI_Driven_Behavioral_Analytics-)
+
+<br/>
+
+**05 · Dementia Memory Project**
+
+`JavaScript` `Web`
+
+A web platform designed to assist individuals affected by dementia and their caregivers. Includes cognitive games, face tracking, relaxation music, journaling, and event reminders.
+
+→ [**Code**](https://github.com/RitikaKalia9/Dementia_memory_project)
+
+<br/>
+
+**06 · MusicBox**
+
+`JavaScript` `Web`
+
+An interactive browser-based music player built from scratch in vanilla JavaScript. Focuses on clean UI, audio controls, and playlist management without any framework.
+
+→ [**Code**](https://github.com/RitikaKalia9/MusicBox)
+
+---
+
+<h3>// Research</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**IEEE ICIR · 2026**
+
+**Real-Time Privacy Guardianship in XR Metaverses via AI-Driven Behavioral Analytics**
+
+Published and presented as an e-Poster at IEEE ICIR 2026, University of Pisa, Italy. Pipeline achieved 92% accuracy and 0.976 ROC-AUC.
+
+</td>
+<td width="50%" valign="top">
+
+**Insights2Techinfo · 2025**
+
+**Memory in Conversational AI Agents: The Backbone of Long-Term Intelligence**
+
+Published in Insights2Techinfo. Explores how long-term memory shapes coherent, useful conversational agents.
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3>// Journey</h3>
+
+| | | |
+|:---|:---|:---|
+| `2024 — 2027` | **B.E. Computer Science & Engineering** | Chandigarh College of Engineering & Technology |
+| `2025 — 2026` | **Chairperson — ACM-W Student Chapter** | CCET, Chandigarh |
+| `2025` | **Technical Team · APRATIM 2025** | CCET College Tech Fest |
+| `2025` | **Design Contributor · CCET Website Team** | Figma |
+| `2022 — 2024` | **Diploma in Computer Science & Engineering** | Chandigarh College of Engineering & Technology |
+| `Training` | **Python Programming** | CS Soft Solutions (I) Pvt. Ltd. |
+
+---
+
+<h3>// GitHub Stats</h3>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RitikaKalia9&show_icons=true&bg_color=0f0a1f&title_color=a78bfa&text_color=8b82a8&icon_color=22d3ee&border_color=2a1f45&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikaKalia9&layout=compact&langs_count=8&bg_color=0f0a1f&title_color=a78bfa&text_color=8b82a8&border_color=2a1f45" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RitikaKalia9&bg_color=0f0a1f&color=a78bfa&line=22d3ee&point=e9e6f5&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" />
+
+<br/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=RitikaKalia9&background=0f0a1f&border=2a1f45&stroke=a78bfa&ring=22d3ee&fire=fbbf24&currStreakLabel=a78bfa&sideLabels=8b82a8&dates=8b82a8&currStreakNum=e9e6f5&sideNums=e9e6f5" />
+
+</div>
+
+---
+
+<h3>// Contact</h3>
+
+<div align="center">
+
+**Let's build something.**
+
+Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, and interesting problems.
+
+<a href="mailto:ritikakalia1@gmail.com">
+  <img src="https://img.shields.io/badge/ritikakalia1%40gmail.com-22d3ee?style=for-the-badge&logo=maildotru&logoColor=06040d" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/RitikaKalia9"><img src="https://img.shields.io/badge/GitHub-0f0a1f?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
+<a href="https://linkedin.com/in/ritikakalia"><img src="https://img.shields.io/badge/LinkedIn-0f0a1f?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
+<a href="https://github.com/RitikaKalia9/RitikaKalia9/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-0f0a1f?style=for-the-badge&logo=adobeacrobatreader&logoColor=fbbf24" /></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a78bfa,100:7c3aed&height=120&section=footer" width="100%" />
+
+<div align="center">
+<sub>© 2026 Ritika Kalia · Built with ♥ in Chandigarh</sub>
+</div>
