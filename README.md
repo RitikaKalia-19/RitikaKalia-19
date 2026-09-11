@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/floral-header.svg" width="100%" alt="Floral Header"/>
+  <img src="assests/floral-header.svg" width="100%" alt="Floral Header"/>
 </div>
 <div align="center">
 
@@ -140,7 +140,7 @@
 
 ## 💐 Quote of the Season
 
-<img src="assets/quote-card.svg" alt="In God we trust; all others bring data. — W. Edwards Deming" width="600"/>
+<img src="assests/quote-card.svg" alt="In God we trust; all others bring data. — W. Edwards Deming" width="600"/>
 
 <i>🌸 "Bloom where you are planted, code where you are inspired." 🌸</i>
 
