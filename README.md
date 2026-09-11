@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Ritika Kalia — AI/ML Engineer" width="100%" />
+<img src="./assests/banner.svg" alt="Ritika Kalia — AI/ML Engineer" width="100%" />
 
 <br/>
 
