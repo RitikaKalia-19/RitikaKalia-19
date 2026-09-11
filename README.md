@@ -243,14 +243,14 @@ Published in Insights2Techinfo. Explores how long-term memory shapes coherent, u
 
 Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, and interesting problems.
 
-<a href="mailto:ritikakalia1@gmail.com">
+<a href="mailto:ritikakalia19@gmail.com">
   <img src="https://img.shields.io/badge/ritikakalia1%40gmail.com-22d3ee?style=for-the-badge&logo=maildotru&logoColor=06040d" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/RitikaKalia9"><img src="https://img.shields.io/badge/GitHub-0f0a1f?style=for-the-badge&logo=github&logoColor=a78bfa" /></a>
-<a href="https://linkedin.com/in/ritikakalia"><img src="https://img.shields.io/badge/LinkedIn-0f0a1f?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
+<a href="https://www.linkedin.com/in/ritika-kalia-809984330/"><img src="https://img.shields.io/badge/LinkedIn-0f0a1f?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
 <a href="https://github.com/RitikaKalia9/RitikaKalia9/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-0f0a1f?style=for-the-badge&logo=adobeacrobatreader&logoColor=fbbf24" /></a>
 
 </div>
@@ -269,7 +269,7 @@ Open to AI/ML Engineer and Full-Stack Developer roles, research collaborations, 
 
 <br><br>
 
-<sub>© 2026 Ritika Kalia · Built with ♥ in Chandigarh</sub>
+<sub>© 2026 Ritika Kalia · Built with ♥ </sub>
 
 </div>
 
