@@ -203,7 +203,7 @@ An interactive browser-based music player built from scratch in vanilla JavaScri
   <img src="https://img.shields.io/badge/Read%20Publication-A78BFA?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read Publication"/>
 </a>
 
-Published in Insights2Techinfo. Explores how long-term memory shapes coherent, useful conversational agents.
+- Published in Insights2Techinfo. Explores how long-term memory shapes coherent, useful conversational agents.
 
 </td>
 </tr>
