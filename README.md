@@ -159,17 +159,9 @@ AI-driven behavioral analytics pipeline achieving 92% accuracy and 0.976 ROC-AUC
 
 <br/>
 
-**05 · Dementia Memory Project**
 
-`JavaScript` `Web`
 
-A web platform designed to assist individuals affected by dementia and their caregivers. Includes cognitive games, face tracking, relaxation music, journaling, and event reminders.
-
-→ [**Code**](https://github.com/RitikaKalia9/Dementia_memory_project)
-
-<br/>
-
-**06 · MusicBox**
+**05 · MusicBox**
 
 `JavaScript` `Web`
 
