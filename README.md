@@ -74,9 +74,6 @@ Build things that work. Then make them beautiful.
 ritika@universe:~$ _
 ```
 
-> **"In God we trust; all others bring data."**
-> — W. Edwards Deming
-
 ---
 
 <h3>// Toolkit</h3>
